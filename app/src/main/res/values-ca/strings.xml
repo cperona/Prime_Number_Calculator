@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Nombres Primers</string>
+    <string name="description">Calcula un nombre primer a través de la seva posició</string>
+    <string name="primeNumberPositionTextField">Introdueix la posició</string>
+    <string name="button">CALCULA</string>
+    <string name="resultDescription">A la posició:</string>
+    <string name="primeNumberResult">El nombre primer:</string>
+    <string name="calculatingToast">Calculant...</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prime Number Calculator</string>
+    <string name="description">Calculate a prime number by it\'s position</string>
+    <string name="primeNumberPositionTextField">Introduce the position</string>
+    <string name="button">CALCULATE</string>
+    <string name="resultDescription">At position:</string>
+    <string name="primeNumberResult">The prime number:</string>
+    <string name="calculatingToast">Calculating...</string>
+</resources>

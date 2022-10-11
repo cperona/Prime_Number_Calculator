@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prime Number Calculator</string>
+    <string name="description">Calcula un número primo a partir de su posición</string>
+    <string name="primeNumberPositionTextField">Introduce la posición</string>
+    <string name="button">CALCULA</string>
+    <string name="resultDescription">En la posición:</string>
+    <string name="primeNumberResult">El número primo:</string>
+    <string name="calculatingToast">Calculando...</string>
+</resources>
